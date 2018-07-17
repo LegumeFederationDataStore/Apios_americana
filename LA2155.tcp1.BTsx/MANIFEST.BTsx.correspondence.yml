@@ -1,0 +1,11 @@
+#Name in this repository                           Previous name
+  apiam.LA2155.tcp1.BTsx.reduced_by_Pv.tar.gz: apiam.AA-2155.tcp1.BTsx.reduced_by_Pv_chr 
+  apiam.LA2155.tcp1.BTsx.transcript.fna.gz: Apiam.2155.Trinity.transcript.fa           
+  apiam.LA2155.tcp1.BTsx.primary_Transcript.fna.gz: Apiam.2155.Trinity.transcript.longest.fa   
+  apiam.LA2155.tcp1.BTsx.transcript_reduced.fna.gz: Apiam.2155.Trinity.transcript_reduced.fa   
+  apiam.LA2155.tcp1.BTsx.transdec_cds.fna.gz: Apiam.2155.Trinity.transdec.cds.fa         
+  apiam.LA2155.tcp1.BTsx.transdec_gene.gff3.gz: Apiam.2155.Trinity.transdec.gene.gff3      
+  apiam.LA2155.tcp1.BTsx.transdec_gff3.bed.gz: Apiam.2155.Trinity.transdec.gff3.bed       
+  apiam.LA2155.tcp1.BTsx.transdec_mRNA.fna.gz: Apiam.2155.Trinity.transdec.mRNA.fa        
+  apiam.LA2155.tcp1.BTsx.transdec_peptide.faa.gz: Apiam.2155.Trinity.transdec.peptide.fa     
+  apiam.LA2155.tcp1.BTsx.transdec_pfam.dat.gz: Apiam.2155.Trinity.transdec.pfam.dat 

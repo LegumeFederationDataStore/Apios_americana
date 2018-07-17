@@ -1,0 +1,53 @@
+identifier: KpZG
+
+provenance: The files in this directory are the primary, initial source. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects.
+
+source: http://legumeinfo.org
+
+subject: SNP calls on a collection of accessions, relative to a reference sequence (derived from a transcriptome assembly)
+
+related_to: Transcriptome assembly in the directory Apios_americana/apiam.AA-2155.tcp1.BTsx
+
+scientific_name: Apios americana
+
+taxid: 185702
+
+bioproject: none
+
+scientific_name_abbrev: apiam
+
+genotype: multiple accessions, called relative to reference accession apiam.AA-2155
+
+description: Files in this directory include the SNP calls, made using the Alpheus pipeline (Miller et al. 2008), relative to the Trinity-derived transcriptome assemblies of the genotype indicated above.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2015-09-27
+
+local_file_creation_date: 2017-05-19
+
+publication_doi: https://doi.org/10.1007/s00122-017-3004-3
+
+dataset_release_date: 2017-05-19
+
+publication_title: A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes
+
+contributors: Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open access. 
+
+keywords: Apios americana, potato bean, transcriptome
+
+citations: Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon. A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes. Theor Appl Genet (2018) 131: 333. DOI: https://doi.org/10.1007/s00122-017-3004-3 PMID: 29071392
+
+file_transformation: 
+  - No transformations for the files above.
+
+changes: 2018-04-17 added MANIFEST files
+2018-04-25 Changed GENOTYPE from AA-2155 to LA2155

@@ -1,0 +1,11 @@
+#Filename                                         Description   
+  apiam.LA2155.tcp1.BTsx.primaryTranscript.fna.gz: Longest "isoform" variant among components and genes        
+  apiam.LA2155.tcp1.BTsx.reduced_by_Pv.tar.gz: Concatenated transcripts with best match to Phaseolus chromosomes        
+  apiam.LA2155.tcp1.BTsx.transcript.fna.gz: Initial Trinity assembly; all transcripts and variants        
+  apiam.LA2155.tcp1.BTsx.transcript_reduced.fna.gz: Transcriptome assembly, reduced to 37105 representative transcripts
+  apiam.LA2155.tcp1.BTsx.transdec.cds.fna.gz: Trinity/transdecoder CDS predictions
+  apiam.LA2155.tcp1.BTsx.transdec.gene.gff3.gz: Trinity/transdecoder gene model (gff3)
+  apiam.LA2155.tcp1.BTsx.transdec.gff3.bed.gz: Trinity/transdecoder gene model (bed)
+  apiam.LA2155.tcp1.BTsx.transdec.mRNA.fna.gz: Trinity/transdecoder mRNA
+  apiam.LA2155.tcp1.BTsx.transdec.peptide.faa.gz: Trinity/transdecoder peptide predictions
+  apiam.LA2155.tcp1.BTsx.transdec.pfam.dat.gz: Trinity/transdecoder annotation information from PFAM
